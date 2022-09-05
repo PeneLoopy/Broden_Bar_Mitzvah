@@ -1,0 +1,155 @@
+---
+title: "Broden Eisenbies' Bar Mitzvah"
+date: "January 7th, 2023"
+output: 
+  html_document: 
+    theme: 
+      bg: "#87CEFA"
+      fg: "#00008B"
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+---
+
+```{r setup, include=F}
+
+# this line specifies options for default options for all R Chunks
+knitr::opts_chunk$set(echo=F, scipen=100) # suppresses scientific notation
+
+# install helper package that loads and installs other packages, if needed
+if (!require("pacman")) install.packages("pacman", repos = "http://lib.stat.cmu.edu/R/CRAN/")
+
+# install and load required packages
+# flexdashboard not required for today, but make sure you can install and load it
+pacman::p_load(pacman,tidyverse, gridExtra, magrittr, bslib)
+
+# verify packages
+p_loaded()
+
+```
+
+<center>![](Broden_at_SCM.jpg)</center>
+
+# Please Respond [RSVP LINK](https://docs.google.com/forms/d/e/1FAIpQLSdrT1rBRcmvvE_Kd3zv23CQIa9DT_5Z36WAYoeXo6tiqB3z6g/viewform?usp=pp_url)
+
+<br>
+
+# Hotel Information
+
+We have reserved a block of rooms at [The Craftsman Inn & Suites](https://www.craftsmaninn.com/) where we will have a reception on Saturday evening (January 7th, 5:30 PM - 9:00 PM).
+
+To get the group rate:
+
+-   Please call The Craftsman at **315-637-8000**.
+-   Let them know you are attending the **Eisenbies Bar Mitzvah**
+
+<br>
+
+# Transportation
+
+-   Airport: [Syracuse International (SYR)](https://syrairport.org/)
+-   Train: [Amtrak at Syracuse Regional Transportation Center](https://www.amtrak.com/stations/syr)
+-   Bus: [Centro at Syracuse Regional Transportation Center](https://www.centro.org/service_schedules/william-f-walsh-regional-transportation-center)
+
+<br>
+
+# Synogogue Information
+
+-   Shabbat service will be held at [Congregation Beth Shalom-Chevra Shas](https://www.cbscs.org/)
+
+-   Address and Link to Map: [18 Patsy Lane, Jamesville, NY 13078](https://www.google.com/maps/place/18+Patsy+Ln,+Jamesville,+NY+13078/@43.0233009,-76.0751064,17z/data=!3m1!4b1!4m5!3m4!1s0x89d98cafe156c27f:0x6d6c4db54556f487!8m2!3d43.0233009!4d-76.0751064)
+
+-   If you cannot join us in person, please join us on [Zoom]()
+
+## Bar Mitzvah
+
+Thank you for joining us on this joyous Shabbat as Broden accepts the responsibility of his Jewish heritage as a Bar Mitzvah (son of the commandments).
+
+Becoming a Bar Mitzvah means that Broden is now responsible for his actions, both ritual and ethical, and today he publicly accepts this responsibility in front of his family and friends.
+
+Broden's participation affirms his adult status within the Jewish community; he is now able to fulfill commandments and assume religious responsibilities.
+
+## Shabbat Service
+
+-   Shabbat service begins at 9:30 and will conclude around 12:00 PM. It consists of multiple parts:
+
+-   Shacharit, the introductory morning service
+
+-   Torah Service
+
+-   Musaf and Concluding Prayers
+
+-   Kiddush, the blessing of wine and food before
+
+-   After the Kiddush prayers, we invite you to join us for lunch at the synagogue.
+
+## Synagogue Etiquette
+
+### Synagogue Covid Policy
+
+-   Individuals who attend in-person are expected to
+
+    -   be vaccinated and boosted, as recommended and eligible
+
+    -   be without COVID-related symptoms or fever
+
+    -   follow CDC recommendations for isolation and quarantine, including getting tested if exposed to a person with COVID.
+
+-   Our Synagogue uses a high-level air filtration system provides ample and distanced-seating options provides face masks for all
+
+-   Our Board of Directors and staff monitors COVID trends, in collaboration with local public health experts and determines in-person masking policy as follows:
+
+    -   **If our local COVID community risk level is:**
+
+        -   [**HIGH**]{style="color:darkred"}**:** all must wear a well-fitted mask when indoors at CBS-CS and there will be no kiddush luncheons
+
+        -   [**MEDIUM**]{style="color:goldenrod"}**:** all must wear a well-fitted mask when indoors at CBS-CS except when eating
+
+        -   [**LOW**]{style="color:seagreen"}**:** mask use will be optional when indoors at CBS-CS
+
+    -   **9/4/22: Our CURRENT local COVID community risk level is [MEDIUM]{style="color:goldenrod"}**
+
+        -   Please check this website for updates in the days before the event.
+
+### Shabbat Etiquette
+
+-   Electronics (except medical devices) and photography are not permitted anywhere in the building or on the synagogue grounds durring shabbat.
+
+-   Please turn off your cell phone before entering the building.
+
+    -   If you must make a phone call, please go outside and step away from the building.
+
+-   Everyone is encouraged to wear one of the inscribed kippot (head coverings) Broden has selected for his special day.
+
+    -   You will find them in a basket in the entryway.
+
+    -   Feel free to take yours home!
+
+    -   Males of all ages and religious backgrounds are required to wear a kippah while in the sanctuary.
+
+-   Be mindful that a service is not a performance so, even if you are impressed, please refrain from applauding.
+
+-   Save your congratulations for after services are over.
+
+-   Please do not place a siddur (prayer book) or chumash (Five Books of Moses) on the floor.
+
+-   If you would like to give Broden a card or gift, please bring it to the evening reception.
+
+-   If you are driving your child and/or someone else, please arrange to pick them up around 1:15 or 1:30. Texting or calling from the synagogue is discouraged.
+
+-   We know that for some of you this will be your first time attending a synagogue service.
+
+    -   These notes are intended to help you feel more comfortable, not to worry you about "breaking the rules." (It happens. Don't worry!)\
+    -   Do not hesitate to ask us, or one of the synagogue ushers, any questions you may have.
+
+<br>
+
+# Evening Reception
+
+<br>
+
+# Fun Things to Do in CNY in January
+
+## If you like cold weather
+
+## If you prefer staying warm:
