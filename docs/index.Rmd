@@ -32,7 +32,7 @@ p_loaded()
 
 # Updates
 
-Hotel, Reception and Local Covid Information were last updated on ***November 20th, 2022***.
+Hotel, Reception and Local Covid Information were last updated on ***November 27th, 2022***.
 
 <br>
 
