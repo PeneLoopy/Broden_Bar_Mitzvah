@@ -32,13 +32,15 @@ p_loaded()
 
 # Updates
 
-Reception and Local Covid Information were last updated on ***December 21th, 2022***.
+Zoom link, Reception and local Covid information were last updated on ***December 31th, 2022***.
 
 - **Please check this website for updates in the days before the event.**
 
-- **Our CURRENT local COVID community risk level is [LOW]{style="color:seagreen"}**
+- **Our CURRENT local COVID community risk level is [MEDIUM]{style="color:GOLDENROD"}**
 
-- **MUSIC REQUESTS: [Submit your music requests here.](https://forms.gle/vViRQXy7qXb8PZHF7)** There will be a spotify playlist playing at the evening reception and I will add requested music.
+- **IF YOU ARE ARE UNABLE TO ATTEND CBS-CS SHABBAT SERVICES IN PERSON: [you can attend services by Zoom using this link](https://cbscs.us16.list-manage.com/track/click?u=d1578de1ba9b589ebbcaf7039&id=c630495ad7&e=03b6f51c1a)** 
+
+- **RECEPTION MUSIC REQUESTS: [Submit your music requests here.](https://forms.gle/vViRQXy7qXb8PZHF7)** There will be a spotify playlist playing at the evening reception and I will add requested music.
 
 - If your child (or you) would like to join in the **Foam Dart Fun, [please complete this waiver form](https://www.rochesterfoamdartleague.com/new-page).**
 
@@ -148,7 +150,7 @@ Broden's participation affirms his adult status within the Jewish community; he 
 
   - [**LOW**]{style="color:seagreen"}**:** Mask use will be optional when indoors at CBS-CS.
 
-- **12/13/22: Our CURRENT local COVID community risk level is [LOW]{style="color:seagreen"}**
+- **12/31/22: Our CURRENT local COVID community risk level is [MEDIUM]{style="color:GOLDENROD"}**
 
   - **Please check this website for updates in the days before the event.**
 
@@ -202,7 +204,7 @@ Broden's participation affirms his adult status within the Jewish community; he 
   
   - Selfie Picture Area 
   
-  - Spotify Music Playlist
+  - Spotify Music Playlist [Submit your music requests here.](https://forms.gle/vViRQXy7qXb8PZHF7)** There will be a spotify playlist playing at the evening reception and I will add requested music.
   
   - Separate pre-teen entertainment provided by **[Rochester Foam Dart League](https://www.rochesterfoamdartleague.com/)**.  
     - Young people (and child-like adults) can join in the foam-dart fun from 6 to 8 PM.
