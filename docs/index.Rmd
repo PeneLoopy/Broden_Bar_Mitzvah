@@ -32,7 +32,7 @@ p_loaded()
 
 # Updates
 
-Zoom link, Reception and local Covid information were last updated on ***December 31th, 2022***.
+***Zoom link, Reception, and local Covid information were last updated on December 31th, 2022***.
 
 - **Please check this website for updates in the days before the event.**
 
