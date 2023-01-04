@@ -70,7 +70,7 @@ p_loaded()
 
     -   If you take other pics and want to share them:
 
-        -   **[you can upload pics at this link](www.tiny.one/wkndpics) or use this QR Code:**
+        -   **[you can upload pics at this link: www.tiny.one/wkndpics](https://drive.google.com/drive/folders/1GBHiBtxkAIJn-DK_NlUarTmSPJg1P6JA?usp=sharing) or use this QR Code:**
 
 <center>![**Scan this code to upload pics from Broden's Bar Mitzvah Weekend.**](QR_Code_Broden_Wknd_Pics.png)</center>
 
